@@ -4,3 +4,5 @@ Run a Markov chain on a Cayley Graph to simulate different card shuffling techni
 You can run it in Google Colab!
 
 https://colab.research.google.com/drive/1mquf1QYW5_5BvtO-o00fNFG4yYzVjkhx
+
+References: Markov Chains and Mixing Times by David Levin, Yuval Peres, and Elizabeth Wilmer
